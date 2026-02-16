@@ -2698,45 +2698,6 @@
       "gpuType": "T4"
     },
     "accelerator": "GPU",
-    "widgets": {
-      "application/vnd.jupyter.widget-state+json": {
-        "bb6e12e524824b36878b96be9e0d8689": {
-          "model_module": "@jupyter-widgets/controls",
-          "model_name": "FileUploadModel",
-          "model_module_version": "1.5.0",
-          "state": {
-            "_counter": 2,
-            "_dom_classes": [],
-            "_model_module": "@jupyter-widgets/controls",
-            "_model_module_version": "1.5.0",
-            "_model_name": "FileUploadModel",
-            "_view_count": null,
-            "_view_module": "@jupyter-widgets/controls",
-            "_view_module_version": "1.5.0",
-            "_view_name": "FileUploadView",
-            "accept": "",
-            "button_style": "",
-            "data": [
-              null
-            ],
-            "description": "Upload",
-            "description_tooltip": null,
-            "disabled": false,
-            "error": "",
-            "icon": "upload",
-            "layout": "IPY_MODEL_3f19da26aaa741969013b424ce314403",
-            "metadata": [
-              {
-                "name": "dog2.jpg",
-                "type": "image/jpeg",
-                "size": 5524,
-                "lastModified": 1771271868249
-              }
-            ],
-            "multiple": false,
-            "style": "IPY_MODEL_982f8135dd664e248e34127569e7f885"
-          }
-        },
         "3f19da26aaa741969013b424ce314403": {
           "model_module": "@jupyter-widgets/base",
           "model_name": "LayoutModel",
